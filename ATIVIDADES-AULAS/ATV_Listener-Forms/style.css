@@ -1,0 +1,9 @@
+.erro{
+    outline: none;
+    border: 2px solid red;
+}
+
+.correto{
+    outline: none;
+    border: 2px solid green;
+}

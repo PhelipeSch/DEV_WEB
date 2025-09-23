@@ -1,0 +1,15 @@
+body{
+    font-size: 30px;
+}
+table{
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+th{
+    color: red;
+}

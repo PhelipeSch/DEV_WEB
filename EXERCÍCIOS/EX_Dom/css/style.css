@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#imagem {
+    width: 50%;
+    height: 30%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+#imagem img {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    font-size: 3rem;
+}
+
+#nome {
+    font-size: 2rem;
+}
+
+section {
+    padding: 1rem;
+}
+
+.ap{
+    color: blue;
+}
+
+.rp{
+    color: red;
+}
+
+.destaque {
+    color: red;
+    background-color: gray;
+    font-weight: bold;
+}

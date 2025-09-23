@@ -1,0 +1,35 @@
+.erro {
+    border: red solid 3px !important;
+    outline: none;
+}
+
+.correto {
+    border: green solid 3px !important;
+    outline: none;
+}
+
+body{
+    background-color: gray;
+}
+
+input{
+    background-color: aliceblue;
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+}
+
+button{
+    background-color: aliceblue;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+    text-align: center;
+}
+
+form{
+    width: 380px;
+}

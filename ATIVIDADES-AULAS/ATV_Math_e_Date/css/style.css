@@ -1,0 +1,23 @@
+.inval{
+    background-color: black;
+    color: red;
+}
+.val{
+    background-color: white;
+    color: green;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: gray;
+    color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    padding: 20px;
+}
