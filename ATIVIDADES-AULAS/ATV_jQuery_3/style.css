@@ -1,0 +1,9 @@
+img{
+    width: 20px;
+    height: 20px;
+}
+
+.erro{
+    border-color: red;
+    color: gray;
+}
